@@ -1,7 +1,7 @@
 # Session23-task
 Task - https://startbootstrap.com/previews/sb-admin-2 value from component need to show to other component
 
-[Live Demo]()
+[Live Demo](https://charming-squirrel-2c783a.netlify.app/)
 
 
 # Getting Started with Create React App
